@@ -12,9 +12,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Hi, I'm Felix!</h1>
-<br />
-<h1>IT, Software Development, Front-End</h1>
+<h1>Software Engineer</h1>
+<hr>
 
-<hr />
+<h2>👨‍💻 Software Development Projects:</h2>
+<hr>
+<ul>
+  <li></li>
+</ul>
+
 
 
