@@ -1,3 +1,11 @@
+<h1>Hi, I'm Felix!</h1>
+<h1>Software Engineer</h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+<ul>
+  <li></li>
+</ul>
+
 <!--
 - 👋 Hi, I’m @FelixT24
 - 👀 I’m interested in software/web development
@@ -10,16 +18,6 @@
 FelixT24/FelixT24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<h1>Hi, I'm Felix!</h1>
-<h1>Software Engineer</h1>
-<hr>
-
-<h2>👨‍💻 Software Development Projects:</h2>
-<hr>
-<ul>
-  <li></li>
-</ul>
 
 
 
