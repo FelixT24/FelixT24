@@ -2,9 +2,6 @@
 <h1>Software Engineer</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <ul>
--  <li></li>
-- </ul>
 
 <!--
 - 👋 Hi, I’m @FelixT24
