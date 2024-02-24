@@ -26,7 +26,7 @@
   <h3>SpaceX Website Clone</h3>
     <ul>
     <li>
-      <p>Utilizing HTML and CSS, I was able to recreate the landing page for the SpaceX website. </p>
+      <p>I successfully replicated the SpaceX landing page using HTML and CSS, ensuring accuracy in design and layout. Utilizing my frontend development skills, I recreated the captivating visual elements and responsive features of the original SpaceX website.</p>
     </li>
   </ul>
 </section>
