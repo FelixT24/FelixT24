@@ -6,6 +6,11 @@
   <h3>Tesla Website Clone</h3>
   <p>Utilizing HTML, CSS, and JavaScript, I was able to recreate an identical landing page for Tesla.com</p>
 </section>
+<section>
+  <h3>SpaceX Website Clone</h3>
+  <p>I successfully recreated the Tesla landing page using HTML, CSS, and JavaScript. Leveraging my proficiency in frontend development, I meticulously cloned the design and functionality of the original Tesla website's landing page, showcasing its sleek aesthetics and interactive features. Through this project, I was able to focus on key front-end development     
+  principles, including responsive design, CSS animations, and DOM manipulation with JavaScript.</p>
+</section>
 
 <!--
 - 👋 Hi, I’m @FelixT24
