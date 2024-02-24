@@ -1,8 +1,16 @@
 <h1>Hi, I'm Felix!</h1>
 <h1>Software Engineer</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<!-- About Me Section -->
+<h2>😁 About Me</h2>
+<section>
+  <p>I'm Felix Taveras, a graduate of CUNY York College with a Bachelor of Science in Computer Science. While formally trained in Java, I've broadened my expertise through external courses and certifications, delving into front-end development and network security. 
+    This diverse skill set empowers me to tackle a wide range of challenges in the ever-evolving field of technology. I'm genuinely excited to apply my knowledge and skills in real-world projects, and I eagerly anticipate the opportunities ahead to continue learning, growing, and making 
+    meaningful contributions to the software development field.</p>
+</section>
 
+<!-- Projects Section -->
+<h2>👨‍💻 Software Development Projects:</h2>
 <!-- Tesela Web Clone -->
 <section>
   <h3>Tesla Website Clone</h3>
