@@ -4,12 +4,19 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 <section>
   <h3>Tesla Website Clone</h3>
-  <p>Utilizing HTML, CSS, and JavaScript, I was able to recreate an identical landing page for Tesla.com</p>
+  <ul>
+    <li>
+      <p>I successfully recreated the Tesla landing page using HTML, CSS, and JavaScript. Leveraging my proficiency in frontend development, I meticulously cloned the design and functionality of the original Tesla website's landing page, showcasing its sleek aesthetics and interactive features.</p>
+    </li>
+  </ul>
 </section>
 <section>
   <h3>SpaceX Website Clone</h3>
-  <p>I successfully recreated the Tesla landing page using HTML, CSS, and JavaScript. Leveraging my proficiency in frontend development, I meticulously cloned the design and functionality of the original Tesla website's landing page, showcasing its sleek aesthetics and interactive features. Through this project, I was able to focus on key front-end development     
-  principles, including responsive design, CSS animations, and DOM manipulation with JavaScript.</p>
+    <ul>
+    <li>
+      <p>Utilizing HTML and CSS, I was able to recreate the landing page for the SpaceX website. </p>
+    </li>
+  </ul>
 </section>
 
 <!--
