@@ -2,6 +2,10 @@
 <h1>Software Engineer</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+<section>
+  <h3>Tesla Website Clone</h3>
+  <p>Utilizing HTML, CSS, and JavaScript, I was able to recreate an identical landing page for Tesla.com</p>
+</section>
 
 <!--
 - 👋 Hi, I’m @FelixT24
