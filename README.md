@@ -2,6 +2,8 @@
 <h1>Software Engineer</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
+<!-- Tesela Web Clone -->
 <section>
   <h3>Tesla Website Clone</h3>
   <ul>
@@ -10,11 +12,23 @@
     </li>
   </ul>
 </section>
+
+<!-- SpaceX Web Clone -->
 <section>
   <h3>SpaceX Website Clone</h3>
     <ul>
     <li>
       <p>Utilizing HTML and CSS, I was able to recreate the landing page for the SpaceX website. </p>
+    </li>
+  </ul>
+</section>
+
+<!-- Java Library -->
+<section>
+  <h3>Java Library</h3>
+    <ul>
+    <li>
+      <p>I developed a library system in Java, allowing users to check in, check out, and view the availability of books through file reading. This project showcases my proficiency in Java programming and file handling.</p>
     </li>
   </ul>
 </section>
