@@ -1,5 +1,5 @@
 <h1>Hi, I'm Felix!</h1>
-<h1>IT and Software Professional</h1>
+<h1>IT and Software</h1>
 
 <!-- About Me Section -->
 <h2>😁 About Me</h2>
@@ -9,6 +9,21 @@
     meaningful contributions to the software development field.</p>
 </section>
 
+<!--Cybersecurity Projects Section-->
+<section>
+  <h2>👨‍💻 Cybersecurity Projects:</h2>
+  <ul>
+    <li>
+        <h3><a href="">Files Permissions Handling</a></h3>
+    </li>
+    <li>
+      <h3><a href="">Incident Report Analysis</a></h3>
+    </li>
+        <li>
+      <h3><a href="">Network Traffic Analysis</a></h3>
+    </li>
+  </ul>
+</section>
 <!-- Projects Section -->
 <h2>👨‍💻 Software Development Projects:</h2>
 <!-- Tesela Web Clone -->
