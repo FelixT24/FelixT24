@@ -1,5 +1,5 @@
 <h1>Hi, I'm Felix!</h1>
-<h1>Software Engineer</h1>
+<h1>IT and Software Professional</h1>
 
 <!-- About Me Section -->
 <h2>😁 About Me</h2>
